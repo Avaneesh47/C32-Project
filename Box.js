@@ -1,9 +1,7 @@
-class Log{
+class Box{
     constructor(x,y,width,height,angle){
         var options = {
-            'restitution':0,
-            'friction':1.0,
-            'density':1.0
+            isStatic:true
         }
         this.body = Bodies.rectangle(x,y,width,height,options);
         this.x = x;

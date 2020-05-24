@@ -1,5 +1,2 @@
-C32-project
-
-Output link:
-
-https://avaneesh47.github.io/C32-Project/
+# p5.play-boilerplate
+Boiler plate for p5.play
